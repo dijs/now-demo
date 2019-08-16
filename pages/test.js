@@ -7,7 +7,7 @@ const Test = () => {
       <Head title="Test" />
 
       <div className="hero">
-        <h1 className="title">Test this!</h1>
+        <h1 className="title">Test this again!</h1>
         <p className="description">Yep yep yep</p>
       </div>
 
